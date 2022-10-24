@@ -1,0 +1,17 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+body {
+    background-image: url(/1338205764_133820_1338205764_noticia_normal.jpg);
+}
